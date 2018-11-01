@@ -11,7 +11,7 @@ export default{
 }
 </script>
 <style lang="stylus" scoped>
-    @import '~/~/src/assets/styles/reset.css';
+    @import '/Users/liuwan/Desktop/travelBymyself/src/assets/styles/reset.css';
     .header
       display flex;
       line-height: .86rem;
